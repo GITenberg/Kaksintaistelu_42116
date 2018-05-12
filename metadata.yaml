@@ -1,0 +1,42 @@
+_repo: Kaksintaistelu_42116
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Mannstén, Emil
+    alias: Mannsten, Emil
+    birthdate: 1873
+    deathdate: 1944
+    gutenberg_agent_id: '9320'
+    url: http://www.gutenberg.org/2009/agents/9320
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Чехов, Антон Павлович
+    - Tchekhov, Anton
+    - Chekov, Anton Pavlovich
+    - Tshehov, Anton
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_issued: '2013-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42116'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcsh 'Dueling -- Fiction'
+- !lcc 'PG'
+title: Kaksintaistelu
+url: http://www.gutenberg.org/ebooks/42116
